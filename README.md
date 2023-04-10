@@ -1,5 +1,5 @@
 # The Best Neighbirdhood
-## By Ann Wang (anw152@pitt.edu), Aakash, Kyle
+### By Ann Wang (anw152@pitt.edu), Aakash, Kyle
 ### Overview 
 Our goal for this project was to find the Pittsburgh neighborhood best-suitable for a bird. 
 ### Datasets used
