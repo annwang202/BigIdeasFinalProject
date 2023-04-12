@@ -1,5 +1,5 @@
 # The Best Neighbirdhood
-### By Ann Wang (anw152@pitt.edu), Aakash (aaa240@pitt.edu), Kyle Harwick (KCH45@pitt.edu)
+### By Ann Wang (anw152@pitt.edu), Aakash Arvapalli (aaa240@pitt.edu), Kyle Harwick (KCH45@pitt.edu)
 ### Overview 
 Our goal for this project was to find the Pittsburgh neighborhood best-suitable for gentlebirds and ladybirds alike. 
 ### Datasets used
